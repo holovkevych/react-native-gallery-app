@@ -1,3 +1,10 @@
+# React Native Gallery App
+
+![Знімок екрана (243)](https://user-images.githubusercontent.com/76655890/146916012-64f7a469-ab61-4454-8913-bf87a2e9ff2e.png)
+
+
+![Знімок екрана (244)](https://user-images.githubusercontent.com/76655890/146916052-86b7653b-1fef-441e-bd67-b40481c07f2f.png)
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
